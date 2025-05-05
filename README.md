@@ -34,3 +34,7 @@ If it dosent work then go to Powershell and Type
 
 then type Y and open the MiniGame again and Have fun PLaying!
 
+![image](https://github.com/user-attachments/assets/4a61f146-656d-4ad2-928d-2e18170e02a6)
+![Screenshot 2025-05-05 102007](https://github.com/user-attachments/assets/7c50e9c9-8158-4cb3-a3c0-7f23cecf41d6)
+![Screenshot 2025-05-05 102020](https://github.com/user-attachments/assets/b6ab2f31-6ec2-4f13-919c-73908a6e7e47)
+
