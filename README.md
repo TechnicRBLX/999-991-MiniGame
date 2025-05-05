@@ -16,11 +16,9 @@ A fun PowerShell GUI game where you act as an emergency dispatcher! Read the eme
 - .NET Framework (already included in Windows)
 
 ---
-Open PowerShell and navigate to the folder:
+Download the 999minigame File 
 
-cd "C:\Path\To\999-991-MiniGame"
-
-Right Click and click run with Powershell
+Right Click on it and click run with Powershell
 
 ![image](https://github.com/user-attachments/assets/b09792c5-115f-4b7c-b7d0-82a081ca9cca)
 
@@ -32,7 +30,7 @@ If it dosent work then go to Powershell and Type
 
  ![image](https://github.com/user-attachments/assets/4c4a37d3-9ed7-4111-8f0c-7612723d6e5d)
 
-then type Y and open the MiniGame again and Have fun PLaying!
+then type Y and open the MiniGame again and Have fun Playing!
 
 ![image](https://github.com/user-attachments/assets/4a61f146-656d-4ad2-928d-2e18170e02a6)
 ![Screenshot 2025-05-05 102007](https://github.com/user-attachments/assets/7c50e9c9-8158-4cb3-a3c0-7f23cecf41d6)
